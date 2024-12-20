@@ -11,7 +11,7 @@ heroimage: https://developer-advocacy.com/images/slide-checklist.jpg
 This is a checklist for presenters to ensure that their talk materials
 are ready for an inclusive, accessible and actionable presentation. It
 is based on years of experience presenting in lots of different
-countries, to diverse audiences at at conferences with translation and
+countries, to diverse audiences at conferences with translation and
 transcription. It is also available online and you can [fork and
 contribute to it on GitHub](https://github.com/codepo8/talk-checklist/).
 
